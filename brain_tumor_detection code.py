@@ -18,7 +18,7 @@ import glob
 
 # unzip the downloaded dataset
 
-!unzip /content/Own-Dataset.zip
+unzip /content/Own-Dataset.zip
 
 # count the number of images in the respective classes
 # 1- Tumor
@@ -241,7 +241,7 @@ plot_images(dataset_path, categories, num_images_per_category=5)
 
 """**Model Building**"""
 
-!pip install tensorflow
+pip install tensorflow
 
 from tensorflow.keras.layers import Conv2D, MaxPool2D, Dropout, Flatten, Dense, BatchNormalization, GlobalAveragePooling2D
 from tensorflow.keras.models import Sequential
@@ -533,7 +533,9 @@ if pred == 0:
 else:
   print("The MRI is having brain tumor or Tumor MRI")
 
-!pip install torchviz
+  
+
+pip install torchviz
 
 import torch
 import torch.nn as nn
