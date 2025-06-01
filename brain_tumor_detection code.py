@@ -241,7 +241,12 @@ plot_images(dataset_path, categories, num_images_per_category=5)
 
 """**Model Building**"""
 
-pip install tensorflow
+
+
+
+#### Install the library before proceeding further in the code
+#### pip install tensorflow
+
 
 from tensorflow.keras.layers import Conv2D, MaxPool2D, Dropout, Flatten, Dense, BatchNormalization, GlobalAveragePooling2D
 from tensorflow.keras.models import Sequential
@@ -533,9 +538,10 @@ if pred == 0:
 else:
   print("The MRI is having brain tumor or Tumor MRI")
 
-  
 
-pip install torchviz
+
+#### Install the library before proceeding further in the code
+#### pip install torchviz
 
 import torch
 import torch.nn as nn
