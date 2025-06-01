@@ -1,1 +1,1 @@
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo/blob/main/notebook.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Satyamredo/brain-tumour-detection-using-deep-learning/blob/main/Brain_Tumor_Detection_code.ipynb)
