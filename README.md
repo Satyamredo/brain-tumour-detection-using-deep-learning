@@ -66,10 +66,6 @@ Model Architecture: Visualized in tumor_onn_model.svg<br>
 Sample Images: Provided in Images from MRI Dataset.png<br>
 
 
-# 📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-
 # 🙏 Acknowledgments
 Inspired by various deep learning applications in medical imaging.<br>
 Special thanks to the contributors and the open-source community for their invaluable resources.
