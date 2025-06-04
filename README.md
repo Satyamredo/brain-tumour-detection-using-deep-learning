@@ -1,12 +1,12 @@
-Brain Tumor Detection Using Deep Learning
+# Brain Tumor Detection Using Deep Learning
 This project leverages deep learning techniques to detect brain tumors from MRI images. Utilizing Convolutional Neural Networks (CNNs), the model classifies MRI scans into tumor and non-tumor categories, aiming to assist in early diagnosis and treatment planning.
 
 
-For ease of use, the project is also available on Google Colab:
+For ease of use, the project is also available on Google Colab:<br>
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KfLVsD7ABHS3dxWbxML8zzxlPcH4SHt-?usp=sharing)
 
 
-🧠 Overview
+# 🧠 Overview
 Objective: Automate the detection of brain tumors in MRI images using deep learning.
 Approach: Implement a CNN-based model trained on a labeled dataset of brain MRI scans.
 Outcome: Achieved high accuracy in classifying images, demonstrating the model's potential in medical diagnostics.
